@@ -72,7 +72,7 @@ This project involves the development of a simulation model to study the spread 
 
 ## UML Diagrams
 
-included in files as ZombieUML
+Included in files as ZombieUML
 
 ### Simulation and District Class Relationship
 
