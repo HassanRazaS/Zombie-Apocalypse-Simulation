@@ -72,6 +72,8 @@ This project involves the development of a simulation model to study the spread 
 
 ## UML Diagrams
 
+included in files as ZombieUML
+
 ### Simulation and District Class Relationship
 
 This indicates that a Simulation object contains and owns multiple District objects. The composition relationship is represented by a line connecting Simulation to District with a filled diamond shape on the Simulation end of the line. The diamond shape indicates composition.
